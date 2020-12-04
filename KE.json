@@ -1,0 +1,2840 @@
+[
+  {
+    "id": "PCPB(CR)1158",
+    "name": "Fortune AZA",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "Fortune Biotech Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Nematode",
+          "Root knot nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0771-p(ii)",
+    "name": "Biokil",
+    "activeIngredient": "Bacillus thuringiensis var. kurstaki",
+    "manufacturer": "Biotech International Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "African bollworm",
+          "Caterpillar",
+          "Bollworm"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1388",
+    "name": "Cera trap",
+    "activeIngredient": "Hydrolysed Protein",
+    "manufacturer": "BioIberica, S.A Spain",
+    "uses": [
+      {
+        "crop": "Mango",
+        "pests": [
+          "Fruit fly"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0585",
+    "name": "Botanigard",
+    "activeIngredient": "Beauveria bassiana strain GHA",
+    "manufacturer": "Laverlam International Corporation / Hamashbir Agriculture Ltd., Israel",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0570",
+    "name": "Neemraj super-3000",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "Neem India Products",
+    "uses": [
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Kale",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Pea",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Trialeurodes vaporariorum",
+          "Diamondback moth",
+          "Bollworm",
+          "Nematode",
+          "Aphid",
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1411",
+    "name": "Prev AM",
+    "activeIngredient": "Orange oil (Limonene)",
+    "manufacturer": "Oro Agri Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0707-p(i)",
+    "name": "BN3 5",
+    "activeIngredient": "Bacillus thuringiensis",
+    "manufacturer": "Biostadt India Ltd.",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Diamondback moth"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1417",
+    "name": "Hypotech",
+    "activeIngredient": "Hypoaspis miles",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Flower thrips"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Thrips",
+          "Flower thrips"
+        ]
+      },
+      {
+        "crop": "Vegetable",
+        "pests": [
+          "Thrips",
+          "Flower thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1144",
+    "name": "Lecatech",
+    "activeIngredient": "Lecanicillium lecanii",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Greenhouse whitefly",
+          "Cotton whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Greenhouse whitefly",
+          "Cotton whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci",
+          "Flower thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1134",
+    "name": "Mytech",
+    "activeIngredient": "Paecilomyces lilacinus",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Root knot nematode",
+          "Nematode"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Root knot nematode",
+          "Nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1744",
+    "name": "Nemguard",
+    "activeIngredient": "Garlic extract",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Cyst nematode"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Cyst nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0715",
+    "name": "Nematech",
+    "activeIngredient": "Steinernema feltiae",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Thrips",
+          "Leaf miner",
+          "Cutworm",
+          "Sciarid fly"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Flower thrips"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Leaf miner",
+          "Flower thrips",
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0299",
+    "name": "Phytotech",
+    "activeIngredient": "Phytoseiulus persimilis",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "Vegetable",
+        "pests": [
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Spider mite",
+          "Mite",
+          "Tetranychus urticae"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Mite",
+          "Spider mite",
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Spider mite",
+          "Mite",
+          "Tetranychus urticae"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0701",
+    "name": "Trichotech",
+    "activeIngredient": "Trichoderma asperellum",
+    "manufacturer": "Dudutech Division, Flamingo Horticulture (K) Limited",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Fusarium",
+          "Fusarium wilt",
+          "Pythium",
+          "Rhizoctonia",
+          "Damping off",
+          "Root rot"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Fusarium wilt"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0300",
+    "name": "Amblytech",
+    "activeIngredient": "Amblyseius californicus",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Vegetable",
+        "pests": [
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite",
+          "Spider mite",
+          "Mite"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Spider mite",
+          "Red spider mite",
+          "Mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite",
+          "Spider mite",
+          "Mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1014",
+    "name": "Amblytech C",
+    "activeIngredient": "Amblyseius cucumeris",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Flower thrips",
+          "Spider mite",
+          "Thrips",
+          "Red spider mite",
+          "Mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0303",
+    "name": "Aphitech",
+    "activeIngredient": "Aphidius transcaspinus",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1092",
+    "name": "Beauvitech",
+    "activeIngredient": "Beauveria bassiana",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Cotton whitefly",
+          "Trialeurodes vaporariorum",
+          "Tobacco whitefly",
+          "Bemisia tabaci"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0301",
+    "name": "Diglytech",
+    "activeIngredient": "Diglyhus isaea",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Ornamental",
+        "pests": [
+          "Leaf miner",
+          "Liriomyza"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Leaf miner",
+          "Liriomyza"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Leaf miner",
+          "Liriomyza"
+        ]
+      },
+      {
+        "crop": "Vegetable",
+        "pests": [
+          "Leaf miner",
+          "Liriomyza"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1106",
+    "name": "Ozoneem",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "Ozone Biotech, India",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Nematode",
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Nematode",
+          "Helicoverpa",
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Coriander",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0302",
+    "name": "Encartech",
+    "activeIngredient": "Encarsia formosa",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Greenhouse whitefly",
+          "Cotton whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Greenhouse whitefly",
+          "Cotton whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1551",
+    "name": "Bio-chance",
+    "activeIngredient": "Naringin",
+    "manufacturer": "Agicolas S.A Ecuador",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew",
+          "Downy mildew",
+          "Botrytis"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1238",
+    "name": "Baciguard",
+    "activeIngredient": "Bacillus thuringiensis",
+    "manufacturer": "Hubei Kangxin Agroindustry Co Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar",
+          "African bollworm"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Caterpillar",
+          "African bollworm"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Aphid",
+          "Leaf miner",
+          "African bollworm",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Bollworm",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Runner bean",
+        "pests": [
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Caterpillar",
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Caterpillar",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Leaf miner"
+        ]
+      },
+      {
+        "crop": "Onion",
+        "pests": [
+          "Caterpillar",
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1220",
+    "name": "Explorer",
+    "activeIngredient": "Eugenol",
+    "manufacturer": "Ningbo Yihwei Chemicals Co., Ltd., China",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Grey mold"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Botrytis"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew"
+        ]
+      },
+      {
+        "crop": "Onion",
+        "pests": [
+          "Downy mildew",
+          "Purple blotch",
+          "Rust"
+        ]
+      },
+      {
+        "crop": "Capsicum",
+        "pests": [
+          "Powdery mildew",
+          "Anthracnose"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Rust",
+          "Powdery mildew",
+          "Anthracnose",
+          "Downy mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1423",
+    "name": "Biosure",
+    "activeIngredient": "Benzoic acid",
+    "manufacturer": "Totales Insumos S.A, Nicaragua",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Downy mildew",
+          "Botrytis"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Anthracnose",
+          "Rust",
+          "Angular leaf spot"
+        ]
+      },
+      {
+        "crop": "Onion",
+        "pests": [
+          "Purple blotch",
+          "Downy mildew"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Early blight",
+          "Late blight"
+        ]
+      },
+      {
+        "crop": "Chive",
+        "pests": [
+          "Rust"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0472",
+    "name": "PL Plus",
+    "activeIngredient": "Paecilomyces lilacinus",
+    "manufacturer": "Biological Control Products SA (Pty).",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Nematode",
+          "Root knot nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0787",
+    "name": "GC-3",
+    "activeIngredient": "Biological Cotton seed oil + Garlic extract",
+    "manufacturer": "J.H. Biotech",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0794",
+    "name": "Pyegar",
+    "activeIngredient": "Pyrethrin + Garlic extract",
+    "manufacturer": "J.H. Biotech",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Red spider mite",
+          "Mite",
+          "Spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0796",
+    "name": "Rootgard",
+    "activeIngredient": "Trichoderma harzianum strain 21",
+    "manufacturer": "J.H. Biotech",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Pythium",
+          "Fusarium",
+          "Rhizoctonia"
+        ]
+      },
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Pythium",
+          "Fusarium",
+          "Rhizoctonia"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Pythium",
+          "Fusarium",
+          "Rhizoctonia"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Pythium",
+          "Fusarium",
+          "Rhizoctonia"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Pythium",
+          "Fusarium",
+          "Rhizoctonia"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1331",
+    "name": "Pyeneem",
+    "activeIngredient": "Pyrethrin + Azadiracthin",
+    "manufacturer": "Pyrethrum Board of Kenya",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Spider mite",
+          "Mite",
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1419",
+    "name": "Aflasafe",
+    "activeIngredient": "Atoxigenic Aspergillus flavus",
+    "manufacturer": "KALRO",
+    "uses": [
+      {
+        "crop": "Maize",
+        "pests": [
+          "Aspergillus flavus"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0835",
+    "name": "Flower DS",
+    "activeIngredient": "Pyrethrin",
+    "manufacturer": "KAPI Ltd",
+    "uses": [
+      {
+        "crop": "Runner bean",
+        "pests": [
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Thrips",
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Mangetout",
+        "pests": [
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Chive",
+        "pests": [
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Coriander",
+        "pests": [
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1860",
+    "name": "Crytrack",
+    "activeIngredient": "(E)-8-Dodecenyl acetate + (Z)-8-Dodecenyl acetate",
+    "manufacturer": "Green Agrotech Natural Environment Technology, Korea",
+    "uses": [
+      {
+        "crop": "Chilli pepper",
+        "pests": [
+          "False coddling moth",
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1123",
+    "name": "Helitec",
+    "activeIngredient": "Helicoverpa armigera SNPV",
+    "manufacturer": "Kenya Biologics Ltd.",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "African bollworm",
+          "Bollworm",
+          "Helicoverpa",
+          "Helicoverpa armigera",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "African bollworm",
+          "Bollworm",
+          "Helicoverpa",
+          "Helicoverpa armigera",
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1655",
+    "name": "Gemtrack",
+    "activeIngredient": "Z-11-hexadecenyl acetate + Z-11-hexadecenal +Z-11-headecen-1-ol",
+    "manufacturer": "Zhangzhou Enjoy Agriculture Technology Co Ltd, China",
+    "uses": [
+      {
+        "crop": "Broccoli",
+        "pests": [
+          "Caterpillar",
+          "Diamondback moth"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1598",
+    "name": "Tutrack - blue sticky trap",
+    "activeIngredient": "E3, Z8, Z11-tetradecatrienyl acetate + E3, Z8-tetradecadienyl acetate",
+    "manufacturer": "Zhangzhou Enjoy Agriculture Technology Co Ltd, China",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Tomato leafminer",
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1383",
+    "name": "Tutrack - blue sticky trap",
+    "activeIngredient": "E3, Z8, Z11-tetradecatrienyl acetate + E3, Z8-tetradecadienyl acetate",
+    "manufacturer": "Zhangzhou Enjoy Agriculture Technology Co Ltd, China",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Tuta absoluta",
+          "Leaf miner",
+          "Tomato leafminer",
+          "Caterpillar",
+          "Tuta absoluta",
+          "Leaf miner",
+          "Tuta absoluta",
+          "Leaf miner"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1597",
+    "name": "Tutrack - yellow sticky trap",
+    "activeIngredient": "E3, Z8, Z11-tetradecatrienyl acetate + E3, Z8-tetradecadienyl acetate",
+    "manufacturer": "Zhangzhou Enjoy Agriculture Technology Co Ltd, China",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Tomato leafminer",
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1014-p(i)",
+    "name": "Thripex",
+    "activeIngredient": "Amblyseius cucumeris",
+    "manufacturer": "Flamingo Horticulture (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Flower thrips",
+          "Thrips",
+          "Red spider mite",
+          "Spider mite",
+          "Mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1024",
+    "name": "Trianum–P",
+    "activeIngredient": "Trichoderma harzianum Rifai strain KRL-AG2",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Fusarium",
+          "Root fungal disease",
+          "Fusarium wilt",
+          "Pythium",
+          "Rhizoctonia",
+          "Root rot",
+          "Damping off"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Fusarium",
+          "Root fungal disease",
+          "Fusarium wilt"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1366",
+    "name": "Capsanem",
+    "activeIngredient": "Steinernema carpocapsae",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar",
+          "Moth",
+          "Noctuidae",
+          "Pyralidae",
+          "Tipulidae"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1636",
+    "name": "Cryptobug-L",
+    "activeIngredient": "Cryptolaemus montrouzieri",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Mealybug"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1215",
+    "name": "Entonem",
+    "activeIngredient": "Steinernema feltiae",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Eustoma",
+        "pests": [
+          "Sciarid fly"
+        ]
+      },
+      {
+        "crop": "Lisianthus",
+        "pests": [
+          "Sciarid fly"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0748",
+    "name": "Ercal",
+    "activeIngredient": "Eretmocerus eremicus",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Bemisia tabaci",
+          "Greenhouse whitefly",
+          "Tobacco whitefly",
+          "Cotton whitefly"
+        ]
+      },
+      {
+        "crop": "Ornamental",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Bemisia tabaci",
+          "Greenhouse whitefly",
+          "Tobacco whitefly",
+          "Cotton whitefly"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1595",
+    "name": "Limonica",
+    "activeIngredient": "Amblydromalus limonicus",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1358",
+    "name": "Mycotal WP",
+    "activeIngredient": "Lecanicillium muscarium",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Trialeurodes vaporariorum",
+          "Bemisia tabaci",
+          "Greenhouse whitefly",
+          "Tobacco whitefly",
+          "Cotton whitefly"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1612",
+    "name": "No Path EW",
+    "activeIngredient": "Thyme oil",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Downy mildew",
+          "Botrytis"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1631",
+    "name": "Pherodis",
+    "activeIngredient": "E3, Z8, Z11-tetradecatrienyl acetate + E3, Z8-tetradecadienyl acetate",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Tuta absoluta",
+          "Tomato leafminer"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0697",
+    "name": "Spical",
+    "activeIngredient": "Neoseilus californicus (Amblyseius californicus)",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae",
+          "Mite",
+          "Spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0696",
+    "name": "Spidex",
+    "activeIngredient": "Phytoseiulus persimilis",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae",
+          "Mite",
+          "Spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0726",
+    "name": "Swirski-mite",
+    "activeIngredient": "Amblyseius swirskii",
+    "manufacturer": "Koppert Biological Systems (K) Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Whitefly",
+          "Tobacco whitefly",
+          "Bemisia tabaci",
+          "Cotton whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1412",
+    "name": "Hawk 16 (3AEY)",
+    "activeIngredient": "Geraniol, Thymol, Eugenol",
+    "manufacturer": "Redestos Agrotechnology Group",
+    "uses": [
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Powdery mildew",
+          "Botrytis"
+        ]
+      },
+      {
+        "crop": "Squash",
+        "pests": [
+          "Botrytis"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Botrytis"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Botrytis",
+          "Powdery mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0852",
+    "name": "Eco-T",
+    "activeIngredient": "Trichoderma harzianum",
+    "manufacturer": "Plant Health Products (Pty) Ltd., South Africa",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Fusarium",
+          "Rhizoctonia",
+          "Phytophthora",
+          "Pythium"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Fusarium",
+          "Rhizoctonia",
+          "Phytophthora",
+          "Pythium"
+        ]
+      },
+      {
+        "crop": "Lisianthus",
+        "pests": [
+          "Fusarium",
+          "Rhizoctonia",
+          "Phytophthora",
+          "Pythium"
+        ]
+      },
+      {
+        "crop": "Statice",
+        "pests": [
+          "Fusarium",
+          "Rhizoctonia",
+          "Phytophthora",
+          "Pythium"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0883",
+    "name": "Achook",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "Godrej Agrovet Ltd.",
+    "uses": [
+      {
+        "crop": "Baby corn",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Banana",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Sugar snap pea",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode",
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Pea",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode",
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Onion",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Brinjal",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Chilli pepper",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Okra",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Citrus",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Pyrethrum",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Burrowing nematode",
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Broccoli",
+        "pests": [
+          "Diamondback moth"
+        ]
+      },
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Burrowing nematode",
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Kale",
+        "pests": [
+          "Burrowing nematode",
+          "Aphid",
+          "Diamondback moth"
+        ]
+      },
+      {
+        "crop": "Courgette",
+        "pests": [
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Tea",
+        "pests": [
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Thrips",
+          "Weevil"
+        ]
+      },
+      {
+        "crop": "Coffee",
+        "pests": [
+          "Diamondback moth",
+          "Whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Borer",
+          "Coffee leafminer",
+          "Caterpillar",
+          "Aphid",
+          "Mite",
+          "Bollworm",
+          "Leaf miner",
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1527",
+    "name": "Frend",
+    "activeIngredient": "Bacillus thuringiensis var. kurstaki",
+    "manufacturer": "Amit Biotech, India",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0707",
+    "name": "Halt",
+    "activeIngredient": "Bacillus thuringiensis var. kurstaki",
+    "manufacturer": "Biostadt India Ltd.",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Diamondback moth"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1113",
+    "name": "Bactrolur",
+    "activeIngredient": "Methyl Eugenol",
+    "manufacturer": "Scentry Biologicals Inc. USA",
+    "uses": [
+      {
+        "crop": "Mango",
+        "pests": [
+          "Fruit fly"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0941",
+    "name": "Bio Dewcon",
+    "activeIngredient": "Ampelomyces quisqualis",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Courgette",
+        "pests": [
+          "Powdery mildew"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Powdery mildew"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew",
+          "Downy mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1308",
+    "name": "Bio Nematon",
+    "activeIngredient": "Paecilomyces lilacinus",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Root knot nematode",
+          "Cyst nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Root knot nematode",
+          "Cyst nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Root knot nematode",
+          "Cyst nematode",
+          "Burrowing nematode"
+        ]
+      },
+      {
+        "crop": "Potato",
+        "pests": [
+          "Cyst nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1038",
+    "name": "Biocatch 1.15",
+    "activeIngredient": "Lecanicillium lecanii",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1443",
+    "name": "Biocatch 1.5",
+    "activeIngredient": "Lecanicillium lecanii",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Aphid",
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1135",
+    "name": "Biocure B",
+    "activeIngredient": "Pseudomonas fluorescens",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Botrytis",
+          "Septoria leaf spot",
+          "Sclerotinia"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1480",
+    "name": "Biocure F",
+    "activeIngredient": "Trichoderma viride",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Fusarium",
+          "Phytophthora",
+          "Pythium",
+          "Verticillium"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1624",
+    "name": "Bio-magic",
+    "activeIngredient": "Metarhizium anisopliae",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Aphid",
+          "Thrips",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Mealybug"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Mealybug",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Tuta absoluta",
+          "Tomato leafminer",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid",
+          "Thrips",
+          "Leaf miner"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0766",
+    "name": "Bio-Power 1.15",
+    "activeIngredient": "Beauveria bassiana strain GHA",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Aphid",
+          "Diamondback moth"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1364",
+    "name": "Biopower 1.5",
+    "activeIngredient": "Beauveria bassiana",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid",
+          "Bollworm",
+          "Caterpillar",
+          "Cutworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Aphid",
+          "Bollworm",
+          "Caterpillar",
+          "Cutworm",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Aphid",
+          "Caterpillar",
+          "Cutworm",
+          "Diamondback moth"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0471",
+    "name": "Nimbecidine",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "T. Stanes & Company Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid",
+          "Thrips",
+          "Whitefly",
+          "Leaf miner",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Nematode",
+          "Root knot nematode"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Cucurbit",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Leaf miner",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Cucumber beetle"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Nematode",
+          "Root knot nematode"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Aphid",
+          "Leaf miner",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Spider mite",
+          "Mite",
+          "Tetranychus urticae",
+          "Red spider mite",
+          "Two spotted spider mite",
+          "Tuta absoluta",
+          "Tomato leafminer",
+          "Cutworm",
+          "Weevil",
+          "Wireworm",
+          "Nematode",
+          "Root knot nematode"
+        ]
+      },
+      {
+        "crop": "Tobacco",
+        "pests": [
+          "Aphid",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Leaf beetle"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0916",
+    "name": "Neemark",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "West Coast Herbochem (Pty) Ltd., India.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Aphid",
+          "Thrips",
+          "Nematode",
+          "Root knot nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0851",
+    "name": "Pesthrin",
+    "activeIngredient": "Pyrethrin",
+    "manufacturer": "Pyrethrum Board of Kenya",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid",
+          "Thrips",
+          "Bollworm",
+          "Diamondback moth",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Beanfly",
+          "Aphid",
+          "Thrips",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Morbdick flowers",
+        "pests": [
+          "Aphid",
+          "Thrips",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1278",
+    "name": "Pyagro 4",
+    "activeIngredient": "Pyrethrin",
+    "manufacturer": "Pyrethrum Board of Kenya",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Whitefly",
+          "Aphid",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Hypericum",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum"
+        ]
+      },
+      {
+        "crop": "Kale",
+        "pests": [
+          "Diamondback moth",
+          "Aphid",
+          "Cabbage sawfly"
+        ]
+      },
+      {
+        "crop": "Tomato",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Spider mite",
+          "Mite",
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0909",
+    "name": "Pydust",
+    "activeIngredient": "Pyrethrin",
+    "manufacturer": "Pyrethrum Board of Kenya",
+    "uses": [
+      {
+        "crop": "Stored grain",
+        "pests": [
+          "Maize weevil",
+          "Rice weevil"
+        ]
+      },
+      {
+        "crop": "Rice (stored)",
+        "pests": [
+          "Maize weevil",
+          "Rice weevil"
+        ]
+      },
+      {
+        "crop": "Maize (stored)",
+        "pests": [
+          "Maize weevil",
+          "Rice weevil"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1769",
+    "name": "Real Andersoni",
+    "activeIngredient": "Amblyseius andersoni",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Spider mite",
+          "Red spider mite",
+          "Mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1229",
+    "name": "Mazao Achieve",
+    "activeIngredient": "Metarhizium anisopliae ICIPE 78",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Spider mite",
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite",
+          "Mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1638",
+    "name": "Mazao Campaign",
+    "activeIngredient": "Metarhizium anisopliae ICIPE 69",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Mealybug"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1160",
+    "name": "Mazao Regain",
+    "activeIngredient": "Bacillus subtilis BS-01",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1234",
+    "name": "Mazao Sustain",
+    "activeIngredient": "Trichoderma asperellum TRC 900",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Root knot nematode",
+          "Nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1879",
+    "name": "Real Californicus",
+    "activeIngredient": "Amblyseius californicus",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Spider mite",
+          "Red spider mite",
+          "Mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1344",
+    "name": "Real Cucumeris",
+    "activeIngredient": "Amblyseius cucumeris",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Thrips",
+          "Flower thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0727",
+    "name": "Real Phytoseiulus",
+    "activeIngredient": "Phytoseiulus persimilis",
+    "manufacturer": "Real IPM Company (K) Ltd",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Red spider mite",
+          "Spider mite",
+          "Mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Red spider mite",
+          "Spider mite",
+          "Mite",
+          "Two spotted spider mite",
+          "Tetranychus urticae"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0865",
+    "name": "Dipel DF",
+    "activeIngredient": "Bacillus thuringiensis var. kurstaki strain ABTS-351",
+    "manufacturer": "Valent Biosciences",
+    "uses": [
+      {
+        "crop": "Carnation",
+        "pests": [
+          "African bollworm",
+          "Beet armyworm",
+          "Spodoptera",
+          "Spodoptera exigua",
+          "Leaf roller",
+          "Bollworm",
+          "Helicoverpa",
+          "Helicoverpa armigera",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "African bollworm",
+          "Beet armyworm",
+          "Spodoptera",
+          "Spodoptera exigua",
+          "Leaf roller",
+          "Bollworm",
+          "Helicoverpa",
+          "Helicoverpa armigera",
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0919",
+    "name": "Ditera DF",
+    "activeIngredient": "Myrothecium verrucaria",
+    "manufacturer": "Valent Biosciences",
+    "uses": [
+      {
+        "crop": "Ornamental",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Cyst nematode"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Nematode",
+          "Root knot nematode",
+          "Cyst nematode"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Cyst nematode",
+          "Nematode",
+          "Root knot nematode"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0262",
+    "name": "XenTari",
+    "activeIngredient": "Bacillus thuringiensis",
+    "manufacturer": "Valent Biosciences",
+    "uses": [
+      {
+        "crop": "Coffee",
+        "pests": [
+          "Giant looper",
+          "Caterpillar",
+          "Looper"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Carnation",
+        "pests": [
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0953",
+    "name": "Neemroc",
+    "activeIngredient": "Azadirachtin",
+    "manufacturer": "Saroneem Biopesticides",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Diamondback moth",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Kale",
+        "pests": [
+          "Diamondback moth",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Broccoli",
+        "pests": [
+          "Diamondback moth",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Turnip",
+        "pests": [
+          "Diamondback moth",
+          "Thrips"
+        ]
+      },
+      {
+        "crop": "Cauliflower",
+        "pests": [
+          "Diamondback moth",
+          "Thrips"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0771-p(i)",
+    "name": "Bio-T-Plus",
+    "activeIngredient": "Bacillus thuringiensis",
+    "manufacturer": "Biotech International Ltd.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "African bollworm",
+          "Bollworm",
+          "Caterpillar"
+        ]
+      },
+      {
+        "crop": "Rose",
+        "pests": [
+          "Caterpillar"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)0567",
+    "name": "Delfin (Javelin)",
+    "activeIngredient": "Bacillus thuringiensis var. kurstaki strain SA-11",
+    "manufacturer": "Certis USA",
+    "uses": [
+      {
+        "crop": "Cabbage",
+        "pests": [
+          "Diamondback moth",
+          "Cabbage looper",
+          "Spodoptera",
+          "Caterpillar",
+          "Looper"
+        ]
+      },
+      {
+        "crop": "Coffee",
+        "pests": [
+          "Giant looper",
+          "Skeletonizer",
+          "Caterpillar",
+          "Looper"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1261",
+    "name": "Pacylos 18 (NoFly WP)",
+    "activeIngredient": "Paecilomyces fumosoroseus strain FE 9901",
+    "manufacturer": "FUTURECO Biosciences S. L.",
+    "uses": [
+      {
+        "crop": "French bean",
+        "pests": [
+          "Whitefly",
+          "Cotton whitefly",
+          "Bemisia tabaci",
+          "Tobacco whitefly",
+          "Greenhouse whitefly",
+          "Trialeurodes vaporariorum",
+          "Aphid"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1360",
+    "name": "Kobe",
+    "activeIngredient": "Chrysophanol",
+    "manufacturer": "Sineria E.A. Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew",
+          "Grey mold",
+          "Downy mildew"
+        ]
+      },
+      {
+        "crop": "Vegetable",
+        "pests": [
+          "Powdery mildew",
+          "Grey mold",
+          "Downy mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1436",
+    "name": "Gomite",
+    "activeIngredient": "Citric acid",
+    "manufacturer": "Thika Wax Works limited",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Thrips",
+          "Aphid",
+          "Spider mite",
+          "Mite",
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      },
+      {
+        "crop": "French bean",
+        "pests": [
+          "Thrips",
+          "Spider mite",
+          "Aphid",
+          "Whitefly",
+          "Mite",
+          "Red spider mite",
+          "Tetranychus urticae",
+          "Two spotted spider mite"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  },
+  {
+    "id": "PCPB(CR)1830",
+    "name": "Vacciplant",
+    "activeIngredient": "Laminarin",
+    "manufacturer": "Arysta LifeScience Ltd.",
+    "uses": [
+      {
+        "crop": "Rose",
+        "pests": [
+          "Powdery mildew"
+        ]
+      },
+      {
+        "crop": "Snow pea",
+        "pests": [
+          "Powdery mildew"
+        ]
+      }
+    ],
+    "countryCode": "KE"
+  }
+]
